@@ -1,4 +1,2 @@
 User-agent: * 
 Disallow:
-
-https://github.com/margicsanja/SalonAutomobila/blob/main/sitemap%20(1).xml
