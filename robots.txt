@@ -1,2 +1,4 @@
 User-agent: * 
 Disallow:
+
+https://github.com/margicsanja/AutoSalon/blob/main/sitemap%20(1).xml
